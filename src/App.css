@@ -1,0 +1,36 @@
+* {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.headerText {
+  text-align: center;
+  padding-right: 5rem;
+}
+
+.jumbotron {
+  overflow: auto;
+  margin-bottom: 0 !important;
+}
+
+.employeeTable {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  text-align: center;
+  vertical-align: middle !important;
+}
+
+.footer {
+  position: fixed;
+  height: 2rem;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  text-align: center !important;
+}
